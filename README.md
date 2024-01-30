@@ -1,3 +1,3 @@
-# Algorithmic-Hedging: Short & Simple 
+# Algorithmic-Hedging:
 
 Multi-Greek Hedging 
